@@ -176,4 +176,6 @@ Finance | FinTech | Risk Analytics
 Building projects at the intersection of finance and data science.
 
 
-![alt text](image.png)
+<img width="1434" height="800" alt="image" src="https://github.com/user-attachments/assets/e7ea31a3-e337-47a3-82be-37ecfde8d517" />
+
+
